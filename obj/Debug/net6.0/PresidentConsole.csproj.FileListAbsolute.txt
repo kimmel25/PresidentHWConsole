@@ -1,0 +1,15 @@
+C:\Projects\C# HW\PresidentHWConsole\bin\Debug\net6.0\PresidentConsole.exe
+C:\Projects\C# HW\PresidentHWConsole\bin\Debug\net6.0\PresidentConsole.deps.json
+C:\Projects\C# HW\PresidentHWConsole\bin\Debug\net6.0\PresidentConsole.runtimeconfig.json
+C:\Projects\C# HW\PresidentHWConsole\bin\Debug\net6.0\PresidentConsole.dll
+C:\Projects\C# HW\PresidentHWConsole\bin\Debug\net6.0\PresidentConsole.pdb
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.csproj.AssemblyReference.cache
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.AssemblyInfoInputs.cache
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.AssemblyInfo.cs
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.csproj.CoreCompileInputs.cache
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.dll
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\refint\PresidentConsole.dll
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.pdb
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\PresidentConsole.genruntimeconfig.cache
+C:\Projects\C# HW\PresidentHWConsole\obj\Debug\net6.0\ref\PresidentConsole.dll
